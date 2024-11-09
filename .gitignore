@@ -1,0 +1,4 @@
+secrets.txt
+
+# --> using *.txt all files with txt extension are ignored
+#--> git rm --cached -r . to remove all the previously added files
